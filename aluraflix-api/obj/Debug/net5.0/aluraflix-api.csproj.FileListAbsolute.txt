@@ -12,9 +12,6 @@
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.AssemblyInfo.cs
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.csproj.CoreCompileInputs.cache
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.MvcApplicationPartsAssemblyInfo.cache
-/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.Manifest.cache
-/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.xml
-/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/scopedcss/bundle/aluraflix-api.styles.css
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.RazorTargetAssemblyInfo.cache
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.dll
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/ref/aluraflix-api.dll
@@ -42,3 +39,16 @@
 /Users/marizzo/projects/Alura-challenge/aluraflix-api/obj/Debug/net5.0/ref/aluraflix-api.dll
 /Users/marizzo/projects/Alura-challenge/aluraflix-api/obj/Debug/net5.0/aluraflix-api.pdb
 /Users/marizzo/projects/Alura-challenge/aluraflix-api/obj/Debug/net5.0/aluraflix-api.genruntimeconfig.cache
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Humanizer.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Npgsql.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/aluraflix-api.csproj.CopyComplete
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.Manifest.cache
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.xml
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/scopedcss/bundle/aluraflix-api.styles.css

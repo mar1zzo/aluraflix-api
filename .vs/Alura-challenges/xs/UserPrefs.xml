@@ -1,16 +1,22 @@
 ﻿<Properties StartupConfiguration="{B138F786-3EE7-470C-A987-F2ADC6B0B7A8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="aluraflix-api/Models/Video.cs">
     <Files>
-      <File FileName="aluraflix-api/Controllers/VideoController.cs" Line="20" Column="2" />
-      <File FileName="aluraflix-api/Models/Video.cs" Line="9" Column="11" />
-      <File FileName="aluraflix-api/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="aluraflix-api/Controllers/VideoController.cs" Line="1" Column="1" />
+      <File FileName="aluraflix-api/Data/VideoContext.cs" Line="13" Column="25" />
+      <File FileName="aluraflix-api/Startup.cs" Line="28" Column="13" />
+      <File FileName="aluraflix-api/appsettings.json" Line="15" Column="24" />
+      <File FileName="aluraflix-api/Models/Video.cs" Line="8" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Alura-challenges" expanded="True">
             <Node name="aluraflix-api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True">
                 <Node name="Video.cs" selected="True" />
               </Node>
