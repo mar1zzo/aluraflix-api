@@ -5,8 +5,9 @@
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat"/>
   <img src="http://img.shields.io/static/v1?label=Status&message=desenvolvimento&color=important&style=flat"/>
 </p>
-
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69127182/126846650-a97e7926-f2aa-46a7-9fdd-83bed59e1a21.png"/>
+</p>
 
 ## 🏁 Tópicos 
 
