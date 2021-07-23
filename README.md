@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Alura&message=Challenge&color=835AFD&style=flat"/>
+  <img src="https://img.shields.io/static/v1?label=Alura&message=Challenge&color=02190E&style=flat"/>
   <img src="https://img.shields.io/static/v1?label=Unity&message=framework&color=black&style=flat&logo=.NET"/>
   <img src="https://img.shields.io/static/v1?label=CSharp&message=language&color=blue&style=flat&logo=csharp"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=flat"/>
