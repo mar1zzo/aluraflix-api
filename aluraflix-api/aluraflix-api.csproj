@@ -20,11 +20,16 @@
     <None Remove="Microsoft.VisualStudio.Web.BrowserLink" />
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="NuGet.CommandLine" />
+    <None Remove="Data\Dtos\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Profiles\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
     <Folder Include="Data\" />
+    <Folder Include="Data\Dtos\" />
+    <Folder Include="Profiles\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Controllers\WeatherForecastController.cs" />
@@ -45,5 +50,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
   </ItemGroup>
 </Project>

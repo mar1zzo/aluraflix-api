@@ -1,4 +1,5 @@
-﻿using aluraflix_api.Data;
+﻿using System;
+using aluraflix_api.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -26,6 +27,7 @@ namespace aluraflix_api
             );
 
             services.AddControllers();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }
 
         private void UseNpgsql(string v)

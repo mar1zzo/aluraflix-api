@@ -52,3 +52,5 @@
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.Manifest.cache
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/staticwebassets/aluraflix-api.StaticWebAssets.xml
 /Users/marizzo/projects/Alura-challenges/aluraflix-api/obj/Debug/net5.0/scopedcss/bundle/aluraflix-api.styles.css
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/AutoMapper.dll
+/Users/marizzo/projects/Alura-challenges/aluraflix-api/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

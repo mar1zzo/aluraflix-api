@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Kx3qWdVK880Sb30wCyR1XS8XUa/JC0yNxsW83PXVB/i8boFql7i1JssLjxuQUn3azxRfXAxkPFZ8uFf2NTDA5w==",
+  "dgSpecHash": "9I0wugBTXTKf1W8wBinq370KUXv1f0FkeJvTjSOWUGt79z3mIch9z6QQSgHhOEWpjcQZyGq4jWBNluV0ML85Sg==",
   "success": true,
   "projectFilePath": "/Users/marizzo/projects/Alura-challenges/aluraflix-api/aluraflix-api.csproj",
   "expectedPackageFiles": [
+    "/Users/marizzo/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/marizzo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/microsoft.entityframeworkcore/5.0.8/microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
@@ -28,6 +30,7 @@
     "/Users/marizzo/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "/Users/marizzo/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/Users/marizzo/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
